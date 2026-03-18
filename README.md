@@ -25,6 +25,6 @@ Ensure the following are installed on your system:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/peter-codeus/COMP120_versioncontrol.git
+git clone https://github.com/peter-codeus/comp120_assignment3.git
 cd comp120_assignment3
 npm install
