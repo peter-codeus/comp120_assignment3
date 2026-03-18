@@ -3,7 +3,7 @@
 ## 📖 Overview
 `comp120_assignment3` is a simple task management (TODO) application that allows users to create, manage, and track tasks. The application demonstrates basic CRUD operations and user interaction with a task list.
 
----
+
 
 ## 🚀 Features
 - Add a new task  
@@ -12,7 +12,7 @@
 - Mark a task as completed  
 - (Optional) Assign due dates to tasks  
 
----
+
 
 ## ⚙️ Installation
 
